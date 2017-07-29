@@ -8,14 +8,16 @@
       "build_source_folder": "kimizhuDocset1111085305",
       "build_output_subfolder": "kimizhuDocset1111085305",
       "locale": "en-us",
-      "version": 0,
+      "monikers": [],
+      "moniker_groups": [],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
         "ManagedReference": "Content",
         "RestApi": "Content"
       },
-      "template_folder": "_themes"
+      "template_folder": "_themes",
+      "version": 0
     }
   ],
   "notification_subscribers": [],
